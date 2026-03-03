@@ -1,97 +1,57 @@
-7zip
-android-studio
-base
-base-devel
-bitwarden
-bluez
-bluez-utils
-brightnessctl
-chrono-date
-cmake
-dart
-dolphin
-dunst
-efibootmgr
-firefox
-freerdp
-git
-glib2-devel
-globalprotect-openconnect-git
-gnome-keyring
-gobject-introspection
-google-chrome
-grim
-gst-plugin-pipewire
-htop
-hyprland
-hyprpaper
-hyprpolkitagent
-hyprshot
-intel-media-driver
-intel-ucode
-iwd
-kitty
-libappindicator
-libgirepository
-libpulse
-libreoffice-still
-libva-intel-driver
-lightdm
-lightdm-slick-greeter
-linux
-linux-firmware
-man-db
-meson
-nano
-netbeans
-notepadnext-bin
-noto-fonts-emoji
-obsidian
-openssh
-otf-font-awesome
-pamixer
-pavucontrol
-pipewire
-pipewire-alsa
-pipewire-jack
-pipewire-pulse
-polkit-kde-agent
-pyside6
-python-pip
-python-pycryptodomex
-python313
-pyzo
-qt5-wayland
-qt6-wayland
-qt6ct-kde
-scdoc
-scyther
-slurp
-smartmontools
-sof-firmware
-spotify
-unzip
-uwsm
-vesktop-bin
-vim
-visual-studio-code-bin
-vulkan-intel
-vulkan-nouveau
-vulkan-radeon
-waybar
-wev
-wget
-wireless_tools
-wireplumber
-wofi
-wpa_supplicant
-wpgtk
-xdg-desktop-portal-hyprland
-xdg-utils
-xf86-video-amdgpu
-xf86-video-ati
-xf86-video-nouveau
-xorg-server
-xorg-xinit
-yay-bin
-zram-generator
+7zip 26.00-1
+base 3-3
+bitwarden 2025.10.0-1
+bluez 5.86-4
+bluez-utils 5.86-4
+brightnessctl 0.5.1-3
+chrono-date 3.0.4-1
+dart 3.10.1-1
+dolphin 25.12.2-1
+dunst 1.13.1-1
+efibootmgr 18-3
+firefox 148.0-1
+freerdp 2:3.23.0-1
+gobject-introspection 1.86.0-2
+htop 3.4.1-1
+hyprland 0.54.0-1
+hyprpaper 0.8.3-2
+hyprpolkitagent 0.1.3-4
+hyprshot 1.3.0-4
+intel-ucode 20260227-1
+iwd 3.11-2
+kitty 0.45.0-4
+libappindicator 12.10.1-1
+libreoffice-still 25.8.5-2
+lightdm-slick-greeter 2.2.6-1
+nano 8.7.1-1
+notepadnext-bin 0.13-1
+noto-fonts-emoji 1:2.051-1
+obsidian 1.12.4-1
+pamixer 1.6-3
+pavucontrol 1:6.2-1
+polkit-kde-agent 6.6.1-1
+python-pycryptodomex 3.23.0-2
+python313 3.13.12-1
+pyzo 4.19.0-3
+qt6-wayland 6.10.2-1
+qt6ct-kde 0.11-5
+scdoc 1.11.4-1
+scyther v1.2.1-3
+sof-firmware 2025.12.2-1
+spotify 1:1.2.82.428-1
+unzip 6.0-23
+vesktop-bin 1.6.5-1
+vim 9.2.0081-1
+visual-studio-code-bin 1.109.5-1
+waybar 0.15.0-2
+wev 1.1.0-1
+wget 1.25.0-3
+wireless_tools 30.pre9-5
+wpa_supplicant 2:2.11-5
+wpgtk 6.7.0-6
+xf86-video-amdgpu 25.0.0-1
+xf86-video-ati 1:22.0.0-2
+xf86-video-nouveau 1.0.18-1
+xorg-xinit 1.4.4-1
+yay-bin 12.5.7-1
+zram-generator 1.2.1-1
