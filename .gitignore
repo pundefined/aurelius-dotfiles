@@ -1,0 +1,12 @@
+# Whitelist approach: ignore everything, then allow tracked configs.
+# App data/caches/credentials under ~/.config must never be committed.
+/*
+!/.gitignore
+!/pkglist.txt
+!/pkglist-aur.txt
+!/QtProject.conf
+!/mimeapps.list
+!/dunst/
+!/hypr/
+!/waybar/
+!/wofi/
