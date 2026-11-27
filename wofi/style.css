@@ -1,19 +1,67 @@
-/* The name of the window itself */
+/* Matches Hyprland window styling: 1px gold gradient trim, black bg, 12px rounding */
+* {
+  font-family: "DejaVu Sans Mono", monospace;
+  font-size: 14px;
+  color: #e8e0c8;
+}
+
+/* Gold trim + black bg + 12px rounding, matching Hyprland windows */
+window {
+  background-color: transparent;
+}
+
 #window {
-  /* The name of the box that contains everything */
+  background-color: transparent;
 }
-#window #outer-box {
-  /* The name of the search bar */
-  /* The name of the scrolled window containing all of the entries */
+
+#outer-box {
+  background-color: #000000;
+  border: 1px solid #f2ca38;
+  border-radius: 12px;
+  padding: 12px;
 }
-#window #outer-box #scroll {
-  /* The name of the box containing all of the entries */
-  /* The name of all the text in entries */
-  /* The name of all entries */
-  /* The name of all boxes shown when expanding  */
-  /* entries with multiple actions */
+
+#input {
+  background-color: #0d0d0d;
+  color: #f2ca38;
+  border: 1px solid #595959;
+  border-radius: 8px;
+  padding: 8px 12px;
+  margin-bottom: 10px;
+  box-shadow: none;
 }
-#window #outer-box #scroll #entry {
-  /* The name of all entries currently selected. */
-  /* The name of all entries currently unselected. */
+#input:focus {
+  border-color: #f2ca38;
+}
+
+#scroll {
+  background-color: transparent;
+}
+
+#inner-box {
+  background-color: transparent;
+}
+
+#entry {
+  background-color: transparent;
+  border-radius: 8px;
+  padding: 6px 10px;
+  margin: 1px 0;
+}
+
+#entry:selected {
+  background-color: #181302;
+  border: 1px solid #f2ca38;
+}
+
+#text {
+  color: #e8e0c8;
+  margin-left: 8px;
+}
+#entry:selected #text {
+  color: #f2ca38;
+}
+
+#img {
+  margin-right: 4px;
 }
