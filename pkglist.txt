@@ -83,7 +83,6 @@ ttf-dejavu
 tumbler
 unzip
 uwsm
-vim
 vulkan-intel
 vulkan-nouveau
 vulkan-radeon
